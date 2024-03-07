@@ -1,1 +1,4 @@
-# stats220
+# Kia ora!
+*first bullet
+
+*second bullet
