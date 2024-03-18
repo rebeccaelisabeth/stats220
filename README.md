@@ -1,20 +1,20 @@
 # Stats 220 Repo 
 
-## This is my repo for STATS 220.
+**This contains projects I'm creating while attending the University of Auckland as a "grown up!"**  
 
-**This will contain my projects for my Stats 220 course**
+## Why am I studying Stats? 
+1. I love learning about a variety of topics, and want to *learn how to learn* even better!
+2. I enjoy the practical application of critical and mathematical thinking
+3. The Stats department at the University of Auckland is reputable and supportive
 
-[My biz](https://surfschool.co.nz/)
+## What kind of projects will be added to this repo througout the semester? 
+* Projects which feature R programming
+* Projects that showcase data visualization
+* Projects that showcase fuctions and reporting
 
+## A few more facts about me: 
+* I've worked passionately at my own small business for 13 years, you may see this influence some of my projects - [My biz](https://surfschool.co.nz/) :hibiscus: 
+* I'm dedicated to improving my programming, reporting, and data skills, so feel free to reach out to me with any tips or to collaborate (I *LOVE* collaborating)
+* Throughout this course, I'd like to learn more about my specific areas of interest and ability, so this repo will contain projects exploring that :blush: 
+  
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaM5vz6QO5aE5yt9C28fyPzzJEJYB7Kz8fQ&usqp=CAU)
-
-<!---this is how you comment--->
-*Feel free to follow me*
-1. Feel free to watch this repository
-2. You can even ⭐ the repo if you want
-* You can also check out my UoA profile page.
-
-so that it contains some information about the purpose of the repo, so that other people who view your repo on GitHub know why you made it
-
-Memes and stuff
